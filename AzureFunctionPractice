@@ -16,3 +16,5 @@ module.exports = async function (context, req) {
 execution URL: 
 https://hinahalaninodetestfunction.azurewebsites.net/api/HttpTrigger1?name=hina
 
+with function key:
+https://hinahalaninodetestfunction.azurewebsites.net/api/HttpTrigger1?code=p6Pjuf9hcJsWS8O9YXM2QcQQMdd5CNTl21-a4llX0I6KAzFuS8--Ow==
